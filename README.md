@@ -6,5 +6,6 @@
 3. CNN(Convolutinal Neural Network)  along with  Hyperparameter tuning using Keras tuner
 4. Using pandas.DateTime, collect various data just from a date value 
 5. Augmentation techniques using 'Albumentations' package
+6. How to convert Keras (.h5) model to TF (.pb) model and TFlite (.tflite) model
 
 #### Many more templates will be added in future and please feel free to add
